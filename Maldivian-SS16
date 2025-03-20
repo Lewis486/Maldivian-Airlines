@@ -1,6 +1,6 @@
 {
     "name": " Maldivian Airlines",
-    "color": "pink",
+    "color": "#CF1F4B",
     "bgcolor": "white",
     "aircrafts": {
         "1": {
